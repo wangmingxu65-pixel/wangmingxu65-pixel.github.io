@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wangmingxu.github.io//sitemap.xml
