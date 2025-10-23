@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wangmingxu.github.io//sitemap.xml
+Sitemap: https://wangmingxu-pixel.github.io//sitemap.xml
